@@ -150,7 +150,7 @@ public class SavingAccountTest {
 
         account.pay(5_000);
 
-        Assertions.assertEquals(0, account.getBalance());
+        Assertions.assertEquals(5_000, account.getBalance());
     }
 
     @Test // Траты до баланса меньше нуля
