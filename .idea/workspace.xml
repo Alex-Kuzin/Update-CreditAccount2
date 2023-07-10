@@ -32,7 +32,7 @@
 }</component>
   <component name="RunManager" selected="JUnit.SavingAccountTest.shouldPayUntilBalanceIsZero">
     <configuration name="CreditAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Update-CreditAccount2" />
+      <module name="Update-CreditAccount2"
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.netology.javaqadiplom.*" />
@@ -73,6 +73,7 @@
       <option name="MAIN_CLASS_NAME" value="ru.netology.javaqadiplom.SavingAccountTest" />
       <option name="METHOD_NAME" value="shouldPayUntilBalanceIsZero" />
       <option name="TEST_OBJECT" value="method" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
